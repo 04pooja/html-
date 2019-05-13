@@ -1,1 +1,1 @@
-# python code
+# Html Template for e-commerce websie
